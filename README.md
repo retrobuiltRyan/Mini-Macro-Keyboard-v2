@@ -17,4 +17,6 @@ Parts List:
 |1|SWITCH TACTILE SPST-NO 0.05A 12V (6x6mm) |679-2443-ND||
 |2|1x12 Header 0.1" pitch|S6100-ND||
 |8|Diode *(OPTIONAL)*, small signal, SOD-123 |1N4148W-13FDICT-ND|Solder Diode bypass jumpers if not using diodes. Diodes are optional|
-![P1060199](https://user-images.githubusercontent.com/68818321/209362804-63345bd4-81d3-4e2e-a002-131dbc90f0ea.JPG)
+
+
+![P1060199](https://user-images.githubusercontent.com/68818321/209362866-1cd56acb-f435-4c11-8d36-ae0880ee9fb4.JPG)
