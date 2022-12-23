@@ -2,7 +2,7 @@
  A macro keyboard to improve application workflow by hardcoding macros, hotkeys, and shortcuts in a tiny keyboard. There is a mode button + OLED screen breakout that allows the user to add multiple macro profiles. A focus on backwards compatibility utilizing cheaper components and versatility was key so many USB input devices can be made cheaply. You can populate the board with a mix of rotary encoders, Cherry keys, or tactile switches. This keyboard was a built for hot-key Retropie commands in Raspberry Pi arcades.This PCB can be populated with up to 5 Cherry Mx Keys and 1 rotary encoders (or omit the encoders for 6 keys). An additional 2 key breakout board can be used (with a TRS cable) to locate 2 cherry keys in discrete location (like a foot pedal). 
 In action here: https://youtu.be/HfOvEncG98M?t=264
 
-Parts List:
+Suggested Parts List:
 
 | Qty | Description | DigiKey P/N| Notes |
 | -------- | --------|--------| ---------------- |
