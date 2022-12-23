@@ -20,3 +20,4 @@ Suggested Parts List:
 
 
 ![P1060199](https://user-images.githubusercontent.com/68818321/209362866-1cd56acb-f435-4c11-8d36-ae0880ee9fb4.JPG)
+![print bed](https://user-images.githubusercontent.com/68818321/209365892-e1cae9fc-559c-474f-93db-b2c48a015627.PNG)
